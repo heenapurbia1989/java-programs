@@ -18,7 +18,7 @@ public class Palllendrom
 			if(str.charAt(i)==str.charAt(j))
 		   {
 				
-				
+				continue;
 		   }
 			else
 			{
