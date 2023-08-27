@@ -26,3 +26,4 @@ public class counting_char {
 	}
 
 }
+// counting character programe
